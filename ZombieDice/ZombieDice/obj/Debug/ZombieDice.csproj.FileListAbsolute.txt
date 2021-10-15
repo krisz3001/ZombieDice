@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\bin\Debug\ZombieDice.exe.config
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\bin\Debug\ZombieDice.exe
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\bin\Debug\ZombieDice.pdb
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\obj\Debug\ZombieDice.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\obj\Debug\ZombieDice.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\obj\Debug\ZombieDice.exe
+C:\Users\PC\Desktop\ZombieDice\ZombieDice\ZombieDice\obj\Debug\ZombieDice.pdb
